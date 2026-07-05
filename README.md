@@ -1,4 +1,4 @@
-# SmartExpenseManager
+# SmartExpenseManagement
 
 A production-oriented iOS expense tracking application built with **Clean Architecture**, **offline-first synchronization**, and **SwiftUI**. SmartExpenseManager lets users create, view, edit, search, and delete expenses with confidence that data is persisted locally first and synchronized reliably when connectivity returns.
 
