@@ -1,0 +1,17 @@
+/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain/Sources/Domain/Entities/CreateExpenseInput.swift
+/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain/Sources/Domain/Entities/DomainError.swift
+/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain/Sources/Domain/Entities/Expense.swift
+/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain/Sources/Domain/Entities/ExpenseCategory.swift
+/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain/Sources/Domain/Entities/ExpenseSearchCriteria.swift
+/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain/Sources/Domain/Entities/ExpenseSyncStatus.swift
+/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain/Sources/Domain/Entities/SyncExpensesResult.swift
+/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain/Sources/Domain/Entities/UpdateExpenseInput.swift
+/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain/Sources/Domain/Repositories/ExpenseRepositoryProtocol.swift
+/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain/Sources/Domain/UseCases/CreateExpenseUseCase.swift
+/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain/Sources/Domain/UseCases/DeleteExpenseUseCase.swift
+/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain/Sources/Domain/UseCases/FetchExpensesUseCase.swift
+/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain/Sources/Domain/UseCases/RetryFailedSyncUseCase.swift
+/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain/Sources/Domain/UseCases/SearchExpensesUseCase.swift
+/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain/Sources/Domain/UseCases/SyncExpensesUseCase.swift
+/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain/Sources/Domain/UseCases/UpdateExpenseUseCase.swift
+/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain/Sources/Domain/UseCases/UseCase.swift

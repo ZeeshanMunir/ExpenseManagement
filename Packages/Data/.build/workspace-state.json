@@ -1,0 +1,41 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "core",
+          "kind" : "fileSystem",
+          "location" : "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Core",
+          "name" : "Core"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Core"
+        },
+        "subpath" : "core"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "domain",
+          "kind" : "fileSystem",
+          "location" : "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain",
+          "name" : "Domain"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Domain"
+        },
+        "subpath" : "domain"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}

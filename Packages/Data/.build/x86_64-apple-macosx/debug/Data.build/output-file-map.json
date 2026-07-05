@@ -1,0 +1,229 @@
+{
+  "": {
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/primary.swiftdeps"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Local/CoreData/CoreDataManager.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/CoreDataManager.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/CoreDataManager.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/CoreDataManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/CoreDataManager.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/CoreDataManager.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Local/CoreData/CoreDataManaging.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/CoreDataManaging.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/CoreDataManaging.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/CoreDataManaging~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/CoreDataManaging.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/CoreDataManaging.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Local/CoreData/MockCoreDataManager.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/MockCoreDataManager.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/MockCoreDataManager.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/MockCoreDataManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/MockCoreDataManager.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/MockCoreDataManager.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Local/CoreData/NSManagedObjectContext+Async.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/NSManagedObjectContext+Async.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/NSManagedObjectContext+Async.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/NSManagedObjectContext+Async~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/NSManagedObjectContext+Async.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/NSManagedObjectContext+Async.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Local/CoreData/PersistenceError.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/PersistenceError.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/PersistenceError.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/PersistenceError~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/PersistenceError.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/PersistenceError.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Local/Models/ExpenseRecord.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRecord.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRecord.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRecord~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRecord.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRecord.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Local/Models/SyncStatus.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SyncStatus.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SyncStatus.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SyncStatus~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SyncStatus.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SyncStatus.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Local/Stores/ExpenseLocalStore.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseLocalStore.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseLocalStore.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseLocalStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseLocalStore.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseLocalStore.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Local/Stores/LocalStore.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/LocalStore.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/LocalStore.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/LocalStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/LocalStore.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/LocalStore.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Mapper/EntityMapping.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/EntityMapping.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/EntityMapping.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/EntityMapping~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/EntityMapping.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/EntityMapping.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Mapper/ExpenseEntityMapper.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseEntityMapper.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseEntityMapper.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseEntityMapper~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseEntityMapper.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseEntityMapper.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Mapper/SyncStatus+Domain.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SyncStatus+Domain.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SyncStatus+Domain.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SyncStatus+Domain~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SyncStatus+Domain.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SyncStatus+Domain.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Remote/DTOs/ExpenseDTO.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseDTO.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseDTO.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseDTO~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseDTO.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseDTO.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Remote/ExpenseEndpoint.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseEndpoint.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseEndpoint.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseEndpoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseEndpoint.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseEndpoint.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Remote/ExpenseRemoteDataSource.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRemoteDataSource.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRemoteDataSource.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRemoteDataSource~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRemoteDataSource.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRemoteDataSource.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Repository/DataDependencyFactory.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/DataDependencyFactory.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/DataDependencyFactory.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/DataDependencyFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/DataDependencyFactory.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/DataDependencyFactory.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Repository/ExpenseRepository.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRepository.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRepository.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRepository~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRepository.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRepository.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Repository/ExpenseRepositoryConfiguration.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRepositoryConfiguration.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRepositoryConfiguration.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRepositoryConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRepositoryConfiguration.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseRepositoryConfiguration.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Sync/ExpenseConflictResolver.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseConflictResolver.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseConflictResolver.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseConflictResolver~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseConflictResolver.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseConflictResolver.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Sync/ExpenseOfflineQueue.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseOfflineQueue.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseOfflineQueue.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseOfflineQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseOfflineQueue.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseOfflineQueue.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Sync/ExpenseOfflineQueueProtocol.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseOfflineQueueProtocol.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseOfflineQueueProtocol.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseOfflineQueueProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseOfflineQueueProtocol.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseOfflineQueueProtocol.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Sync/ExpenseSyncCoordinator.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseSyncCoordinator.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseSyncCoordinator.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseSyncCoordinator~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseSyncCoordinator.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/ExpenseSyncCoordinator.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Sync/OfflineOperationType.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/OfflineOperationType.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/OfflineOperationType.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/OfflineOperationType~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/OfflineOperationType.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/OfflineOperationType.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/Sync/OfflineQueueItem.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/OfflineQueueItem.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/OfflineQueueItem.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/OfflineQueueItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/OfflineQueueItem.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/OfflineQueueItem.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/UseCases/CreateExpenseUseCase.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/CreateExpenseUseCase.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/CreateExpenseUseCase.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/CreateExpenseUseCase~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/CreateExpenseUseCase.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/CreateExpenseUseCase.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/UseCases/DeleteExpenseUseCase.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/DeleteExpenseUseCase.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/DeleteExpenseUseCase.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/DeleteExpenseUseCase~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/DeleteExpenseUseCase.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/DeleteExpenseUseCase.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/UseCases/FetchExpensesUseCase.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/FetchExpensesUseCase.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/FetchExpensesUseCase.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/FetchExpensesUseCase~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/FetchExpensesUseCase.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/FetchExpensesUseCase.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/UseCases/RetryFailedSyncUseCase.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/RetryFailedSyncUseCase.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/RetryFailedSyncUseCase.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/RetryFailedSyncUseCase~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/RetryFailedSyncUseCase.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/RetryFailedSyncUseCase.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/UseCases/SearchExpensesUseCase.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SearchExpensesUseCase.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SearchExpensesUseCase.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SearchExpensesUseCase~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SearchExpensesUseCase.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SearchExpensesUseCase.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/UseCases/SyncExpensesUseCase.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SyncExpensesUseCase.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SyncExpensesUseCase.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SyncExpensesUseCase~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SyncExpensesUseCase.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/SyncExpensesUseCase.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/Sources/Data/UseCases/UpdateExpenseUseCase.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/UpdateExpenseUseCase.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/UpdateExpenseUseCase.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/UpdateExpenseUseCase~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/UpdateExpenseUseCase.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/UpdateExpenseUseCase.dia"
+  },
+  "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/resource_bundle_accessor.d",
+    "object": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/resource_bundle_accessor.swiftdeps",
+    "diagnostics": "/Users/apple/Desktop/projects/hiring_applications/ExpenseManagement/Packages/Data/.build/x86_64-apple-macosx/debug/Data.build/resource_bundle_accessor.dia"
+  }
+}
